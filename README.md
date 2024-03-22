@@ -1,4 +1,4 @@
-# Pokemon_Analysis
+# Pokémon Analytics: In-Depth Analysis of Pokémon Attributes and Trends
 
 ## Description:
 
